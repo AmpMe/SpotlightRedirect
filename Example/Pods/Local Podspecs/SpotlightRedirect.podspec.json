@@ -1,8 +1,8 @@
 {
   "name": "SpotlightRedirect",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "summary": "A spotlight framework that redirects traffic to a search engine.",
-  "description": "This framework redirects traffic to a search engine. It also helps reduce boiler plate code needed to implement spotlight.",
+  "description": "This framework redirects traffic to a search engine. It also helps reduce boiler plate code needed to implement spotlight",
   "homepage": "https://github.com/AmpMe/SpotlightRedirect",
   "license": "MIT",
   "authors": {
@@ -13,9 +13,9 @@
   },
   "source": {
     "git": "https://github.com/AmpMe/SpotlightRedirect.git",
-    "tag": "0.0.1"
+    "tag": "0.0.4"
   },
-  "source_files": "SpotlightRedirect/**/*.{swift}",
+  "source_files": "SpotlightRedirect/**/*",
   "frameworks": [
     "CoreSpotlight",
     "CoreServices",
