@@ -1,0 +1,16 @@
+PODS:
+  - SpotlightRedirect (0.0.1)
+
+DEPENDENCIES:
+  - SpotlightRedirect (from `../SpotlightRedirect`)
+
+EXTERNAL SOURCES:
+  SpotlightRedirect:
+    :path: "../SpotlightRedirect"
+
+SPEC CHECKSUMS:
+  SpotlightRedirect: c21fa7b2f8981cc90a530235c2ce4cb87a367170
+
+PODFILE CHECKSUM: df1d703513221c0622a405268da5d299bdab828c
+
+COCOAPODS: 1.11.3
